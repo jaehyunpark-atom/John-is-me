@@ -1,1 +1,1 @@
-This is HTMLpart of code.
+This is HTML part code.
