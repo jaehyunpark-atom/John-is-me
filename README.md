@@ -1,4 +1,3 @@
-Hi my name is JaeHyun Park. 
+Hi my name is Jaehyun Park.
 Nice to meet you! 
-I will be a developer. 
 See you soon world!
